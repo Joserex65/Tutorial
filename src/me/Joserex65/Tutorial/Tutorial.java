@@ -7,13 +7,13 @@ public class Tutorial extends JavaPlugin{
 	
 	@Override
 	public void onEnable(){
-		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "Plugin Tutorial activado correctamente. Versión actual: 1.0");
-		
+		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "Plugin Tutorial activado correctamente. VersiÃ³n actual: 1.0");
+		 //HO-LA
 	}
 	
 	@Override
 	public void onDisable(){
-		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "Plugin Tutorial desactivado correctamente. Versión actual: 1.0");
+		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "Plugin Tutorial desactivado correctamente. VersiÃ³n actual: 1.0");
 	}
 	
 
